@@ -1,0 +1,4 @@
+Dataset/
+PreprocessedDataset/
+smotefolder/
+resnet50_knee_osteoarthritis_model.h5
